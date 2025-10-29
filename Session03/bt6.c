@@ -11,4 +11,4 @@ int main(int argc, const char *argv[])
     dienTich = chieuDai * chieuRong;
     printf("dien tich cua hinh chu nhat la %.2f\n", dienTich);
     return 0;
-}
+}   
