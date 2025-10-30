@@ -4,7 +4,7 @@
 int main(int argc, const char *argv[])
 {
     float chieuDai, chieuRong, dienTich;
-    printf("hay nhap chieu dai ");
+    printf("Hay nhap chieu dai ");
     scanf("%f", &chieuDai);
     printf("hay nhap chieu rong ");
     scanf("%f", &chieuRong);

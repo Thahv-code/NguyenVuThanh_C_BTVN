@@ -4,11 +4,11 @@
 int main(int argc, const char *argv[])
 {
     float num1, num2, num3, tong, tbc;
-    printf("hay nhap diem toan ");
+    printf("Hay nhap diem toan ");
     scanf("%f", &num1);
-    printf("hay nhap diem van ");
+    printf("Hay nhap diem van ");
     scanf("%f", &num2);
-    printf("hay nhap diem anh ");
+    printf("Hay nhap diem anh ");
     scanf("%f", &num3);
     tong = num1 + num2 + num3;
     tbc = tong / 3;

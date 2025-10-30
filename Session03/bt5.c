@@ -4,7 +4,7 @@
 int main(int argc, const char *argv[])
 {
 
-    printf("\t\t\t\t\t\t DANH SACH SINH VIEN\n");
+    printf("----DANH SACH SINH VIEN\n");
     printf("----------------------------------------------------------------\n");
     printf("|STT| Ho va ten  | Tuoi | So dien thoai | email               |\n");
     printf("| 1 | Nguyen A   |  20  |0946383648     | an@rikkeiacademy.com|\n");
